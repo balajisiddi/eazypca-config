@@ -4,7 +4,7 @@ tasks:
   message: "Welcome to EazyBank accounts related qa spring cloud bus APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    email: "balaji@eazybank.com"
   preferredServiceLocations:
     - "Hyderabad"
     - "Chennai"
