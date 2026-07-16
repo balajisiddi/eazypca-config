@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+tasks:
   message: "Welcome to EazyBank accounts related production spring cloud bus APIs "
   contactDetails:
     name: "John Doe - Developer"
