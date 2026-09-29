@@ -4,7 +4,7 @@ cards:
   message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "{cipher}5921a06fe3f18461ea62405cc555da6f481f898235e458f475138f779bd210b5348d942f11822970703b940a9970b42d"
+    email: "{cipher}69194128fb1a34973fdda7b9e5da05e47dfb58181c37463b58385e4a5451740e38ef1abac0ba2d25bd58f9f2d23aec83"
   onCallSupport:
-    - "{cipher}4ec587db33b773c572e758b47493d2e5ab2c1ae0c8c77aae95dd3259f9323402"
-    - "{cipher}2f6d2868d255069558c5e498d08a1454034799773e4703e459ef8f0ec6e1ee1f"
+    - "{cipher}9db8e9729ecfcb789e4c4ee20aff8f8bef3d40bc93b5f72433b619ec3704f9da"
+    - "{cipher}1cc9ce493ac2e5ae79151b42d812acd5247176f2707f46e57978ec6c49be2f39"
