@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-loans:
+schemes:
   message: "Welcome to EazyBank schemes related production APIs "
   contactDetails:
     name: "John Doe - Developer"
